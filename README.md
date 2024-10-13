@@ -1,9 +1,9 @@
 # AI-Personal-Assistant-2025
 
-!Python
-!TensorFlow
-!Keras
-!scikit-learn
+<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="50" height="50">
+<img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50">
 
 ## Overview
 AI-Personal-Assistant-2025 is an AI-powered personal assistant that can manage schedules, send reminders, and provide personalized recommendations using natural language processing and machine learning.
