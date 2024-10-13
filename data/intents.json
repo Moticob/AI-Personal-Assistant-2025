@@ -1,0 +1,30 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "How are you?", "Is anyone there?", "Good day", "Hey", "What's up?"],
+      "responses": ["Hello!", "Hi there!", "Greetings!", "How can I assist you today?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye", "Take care", "Catch you later"],
+      "responses": ["Goodbye!", "See you later!", "Have a great day!"]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Much appreciated"],
+      "responses": ["You're welcome!", "Happy to help!", "Anytime!"]
+    },
+    {
+      "tag": "time",
+      "patterns": ["What time is it?", "Can you tell me the time?", "Time now", "Current time"],
+      "responses": ["It's [current time].", "The time is [current time]."]
+    },
+    {
+      "tag": "help",
+      "patterns": ["I need help", "Can you help me?", "Help me with something", "I need assistance"],
+      "responses": ["Sure, how can I assist you?", "I'm here to help. What do you need?"]
+    }
+  ]
+}
+
